@@ -1,8 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
+  <img src="blog_app_erd.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-  <h1><b>Blog-App</b></h1>
+<h3><b>Blog App</b></h3>
 
 </div>
 
@@ -10,37 +12,55 @@
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Catalog of My Things\] ](#-catalog-of-my-things-)
-  - [🛠 Built With ](#-built-with-)
-    - [Key Features ](#key-features-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Blog-APP] <a name="about-project"></a>
+# 📖 Blog App <The Blog app will be a classic example of a blog website. You will create a fully functional website that will show the list of posts and empower readers to interact with them by adding comments and liking posts.a name="about-project"></a>
 
-**[Catalog of My Things]**
-This is a fully functional blog application that features a website where readers can explore a curated list of posts and actively engage with them by posting comments and expressing their appreciation through post likes.
+**Blog App** is a classic example of a blog website. A fully functional website that will show the list of posts and empower readers to interact with them by adding comments and liking posts.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- Rails
-- PostgreSQL
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- [ ] **[creating a data model]**
+- [ ] **Adding Posts**
+- [ ] **Liking posts**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,61 +70,51 @@ This is a fully functional blog application that features a website where reader
 
 To get a local copy up and running, follow these steps.
 
-- Laptop
-- Github
-- Git
-- Ruby
-- Rails
-- Linters
-
 ### Prerequisites
 
 In order to run this project you need:
 
-- To install Ruby following these steps:
-- Install the latest version on ruby+devkit [rubyinstaller](https://rubyinstaller.org/downloads/)
-- Follow the installation steps [here](https://stackify.com/install-ruby-on-windows-everything-you-need-to-get-going/)
-- install the [linters for Ruby](https://github.com/microverseinc/linters-config/tree/master/ruby)
+- `Ruby`
+- `Rails`
+- `Code editor (VSCode, RubyMine)`
 
 ### Setup
 
 Clone this repository to your desired folder:
-Example commands:
 
 ```sh
   cd my-folder
-  git https://github.com/kerlos-bahaa/Blog-app
+  git clone https://github.com/kerlos-bahaa/Blog-app
 ```
 
 ### Install
 
 Install this project with:
-Example command:
 
 ```sh
-  cd vortex
-  gem install
+  cd my-project
+  bundle install
 ```
 
 ### Usage
 
 To run the project, execute the following command:
-Example command:
 
 ```sh
   rails server
-  OR
-  rails s
 ```
 
 ### Run tests
 
 To run tests, run the following command:
-Example command:
 
 ```sh
-  bin/rails test test/models/post_test.rb
+  rspec spec
 ```
+
+### Deployment
+
+You can deploy this project using your own deployment solution
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,9 +124,7 @@ Example command:
 
 👤 **kerlos bahaa**
 
-- GitHub: [kerlos bahaa](https://github.com/kerlos-bahaa)
-- LinkedIn: [kerlos bahaa
-  ](https://www.linkedin.com/in/kerlos-bahaa-457a8925a/)
+- GitHub: [@kerlos bahaa ](https://github.com/kerlos-bahaa)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,8 +132,7 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[creating a data model]**
-- [ ] **[processing data in models]**
+- [ ] **Add Web UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +142,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kkmanuu/Blog-app/issues).
+Feel free to check the [issues page](https://github.com/kerlos-bahaa/blog_app/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +150,7 @@ Feel free to check the [issues page](https://github.com/kkmanuu/Blog-app/issues)
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give us a ⭐️.
+If you like this project consider adding a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,14 +158,12 @@ If you like this project give us a ⭐️.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank the Microverse Team.
+I would like to thank [Microverse](https://bit.ly/MicroverseTN)..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## :memo: License <a name="license"></a>
+## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](./LICENSE) licensed.
