@@ -125,6 +125,7 @@ You can deploy this project using your own deployment solution
 👤 **kerlos bahaa**
 
 - GitHub: [@kerlos bahaa ](https://github.com/kerlos-bahaa)
+- LinkedIn: [@kerlos bahaa](https://www.linkedin.com/in/kerlos-bahaa/)
 
 👤 **BAHATI Marie-Grace**
 
