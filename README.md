@@ -118,6 +118,12 @@ Example command:
 - LinkedIn: [kerlos bahaa
   ](https://www.linkedin.com/in/kerlos-bahaa-457a8925a/)
 
+  👤 **Emmanuel Kipngeno**
+
+- GitHub: [@githubhandle](https://github.com/kkmanuu)
+- Twitter: [@twitterhandle](https://twitter.com/Kkmanuu1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-kipngeno/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -126,6 +132,7 @@ Example command:
 
 - [ ] **[creating a data model]**
 - [ ] **[processing data in models]**
+- [ ] **[Add device]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
