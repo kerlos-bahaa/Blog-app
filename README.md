@@ -125,6 +125,7 @@ You can deploy this project using your own deployment solution
 👤 **kerlos bahaa**
 
 - GitHub: [@kerlos bahaa ](https://github.com/kerlos-bahaa)
+- Twitter: [@kerlos bahaa](https://twitter.com/KerlosBahaa)
 - LinkedIn: [@kerlos bahaa](https://www.linkedin.com/in/kerlos-bahaa/)
 
 👤 **BAHATI Marie-Grace**
@@ -155,7 +156,7 @@ You can deploy this project using your own deployment solution
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kerlos-bahaa/blog_app/issues/).
+Feel free to check the [issues page](https://github.com/kerlos-bahaa/Blog-app/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,4 +180,4 @@ I would like to thank [Microverse](https://bit.ly/MicroverseTN)..
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
