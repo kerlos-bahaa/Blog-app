@@ -122,7 +122,7 @@ You can deploy this project using your own deployment solution
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **kerlos bahaa**
+👤 **kerlos-bahaa**
 
 - GitHub: [@kerlos bahaa ](https://github.com/kerlos-bahaa)
 - Twitter: [@kerlos bahaa](https://twitter.com/KerlosBahaa)
