@@ -12,6 +12,7 @@
     </div>
     <div class="card-footer">
       <%= render 'shared/like' %>
+      <%= link_to 'Delete Post', "/users/#{@current_user.id}/posts/#{@post.id}", class: 'btn btn-danger', data: { turbo_method: :delete } if can? :destroy, @post %>
     </div>
   </div>
   <%= render 'shared/comments_card', user_id: @current_user.id, post_id: @post.id, comments: @post.comments unless @post.comments.empty? %>
